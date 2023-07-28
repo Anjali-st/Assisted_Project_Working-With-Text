@@ -1,0 +1,8 @@
+C:\Users\anjal\OneDrive\Desktop\Assisted_Project\ConApp_Working-With-Text\obj\Debug\ConApp_Working-With-Text.csproj.AssemblyReference.cache
+C:\Users\anjal\OneDrive\Desktop\Assisted_Project\ConApp_Working-With-Text\obj\Debug\ConApp_Working-With-Text.csproj.SuggestedBindingRedirects.cache
+C:\Users\anjal\OneDrive\Desktop\Assisted_Project\ConApp_Working-With-Text\obj\Debug\ConApp_Working-With-Text.csproj.CoreCompileInputs.cache
+C:\Users\anjal\OneDrive\Desktop\Assisted_Project\ConApp_Working-With-Text\bin\Debug\ConApp_Working-With-Text.exe.config
+C:\Users\anjal\OneDrive\Desktop\Assisted_Project\ConApp_Working-With-Text\bin\Debug\ConApp_Working-With-Text.exe
+C:\Users\anjal\OneDrive\Desktop\Assisted_Project\ConApp_Working-With-Text\bin\Debug\ConApp_Working-With-Text.pdb
+C:\Users\anjal\OneDrive\Desktop\Assisted_Project\ConApp_Working-With-Text\obj\Debug\ConApp_Working-With-Text.exe
+C:\Users\anjal\OneDrive\Desktop\Assisted_Project\ConApp_Working-With-Text\obj\Debug\ConApp_Working-With-Text.pdb
